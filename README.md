@@ -14,6 +14,7 @@ This repository contains the Deep Reinforcement Learning Course mdx files and no
 
 - **Sign up here** ➡️➡️➡️ http://eepurl.com/ic5ZUD
 
+![Response](https://github.com/Wintoplay/deep-rl-class/assets/66968226/d174660b-2a8d-4cd6-b246-cb0587ec9ac7)
 
 
 ## Citing the project
