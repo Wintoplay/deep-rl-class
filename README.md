@@ -1,3 +1,5 @@
+This repository was cloned to fix bug in the tutorial of deep-rl class at the time of creation.
+
 # [The Hugging Face Deep Reinforcement Learning Course 🤗 (v2.0)](https://huggingface.co/deep-rl-course/unit0/introduction)
 
 <img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/unit0/thumbnail.jpg" alt="Thumbnail"/>
